@@ -4,4 +4,7 @@
   <div align="center"></div>
 </p>
 
-![Demo](doll_video.gif)
+<p align="center">
+  <img src="doll_video.gif" width="400" />
+</p>
+
